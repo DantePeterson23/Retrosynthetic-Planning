@@ -11,5 +11,5 @@ Task2:
 Task3:
 
 
-We use the Retro* code. The Github link is [url]https://github.com/binghong-ml/retro_star[/url].  
+We use the Retro* code. The project's Github [link](https://github.com/binghong-ml/retro_star).  
 Firstly follow the README in the project above. Then move the Multi-Step task folder under the path './retro_star/retro_star'. Finally run the api.py.
