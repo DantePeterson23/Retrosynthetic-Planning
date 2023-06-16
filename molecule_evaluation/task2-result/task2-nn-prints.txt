@@ -1,0 +1,22 @@
+(FederatedLearning) D:\2022-2023-2\ML\Project\Project for ML>python "molecule evaluation.py" --method neural_network             
+Epoch = 0, Training loss = 0.075133
+Epoch = 0, Testing loss = 0.661029, Accuracy = 0.241000
+Epoch = 1, Training loss = 0.067357
+Epoch = 1, Testing loss = 0.650156, Accuracy = 0.383000
+Epoch = 2, Training loss = 0.062152
+Epoch = 2, Testing loss = 0.663985, Accuracy = 0.488000
+Epoch = 3, Training loss = 0.059554
+Epoch = 3, Testing loss = 0.670712, Accuracy = 0.553000
+Epoch = 4, Training loss = 0.057716
+Epoch = 4, Testing loss = 0.659823, Accuracy = 0.553000
+Epoch = 5, Training loss = 0.056715
+Epoch = 5, Testing loss = 0.667039, Accuracy = 0.586000
+Epoch = 6, Training loss = 0.055888
+Epoch = 6, Testing loss = 0.677196, Accuracy = 0.625000
+Epoch = 7, Training loss = 0.055530
+Epoch = 7, Testing loss = 0.676663, Accuracy = 0.629000
+Epoch = 8, Training loss = 0.055072
+Epoch = 8, Testing loss = 0.657830, Accuracy = 0.565000
+Epoch = 9, Training loss = 0.054821
+Epoch = 9, Testing loss = 0.664402, Accuracy = 0.593000
+
